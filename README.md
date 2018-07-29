@@ -1,3 +1,3 @@
 # first
-test
-hellso world
+test\n
+hells world
