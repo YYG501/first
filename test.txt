@@ -2,3 +2,7 @@
 test\n
 hells world
 主线修改
+<<<<<<< HEAD
+=======
+第一个分支
+>>>>>>> new-branch
